@@ -3,10 +3,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Chat-App**
 - 🌱 I’m currently learning **NEXT JS, PYTHON**
-- 👯 I’m looking to collaborate on **Github**
-- 💬 Ask me about **react, vue, tailwind css, Mysql, php, node.js and express**
+- 👯 I’m looking to collaborate on **Github** to everyone who needs too
+- 💬 Ask me about **react, vue, Dart, Flutter, tailwind css, Mysql, php, node.js and express**
 - 📫 How to reach me **byiringirobon01fra@gmail.com**
 - ⚡ Fun fact **I'm addicted to code editing**
 
